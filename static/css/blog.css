@@ -62,6 +62,13 @@ body {
   #nav-links a:hover {
     border-color: #38c5c5;
     color: #38c5c5; }
+  #nav-services li {
+  font-size: 24px;
+  margin: 6px; }
+
+  #nav-services a:hover {
+    border-color: #38c5c5;
+    color: #38c5c5; }
 
 #post-list {
   list-style: none; }
