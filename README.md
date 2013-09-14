@@ -1,3 +1,6 @@
+# My Theme
+This is an adaption of [hdra's Cait Theme](https://github.com/hdra/pelican-cait) for Pelican to work for my [blog](http://molar.es).
+
 # Cait
 
 Cait is a theme for static site generator, [Pelican][pelican]
