@@ -47,7 +47,7 @@ body {
   font-size: 2em;
   font-variant: bold; }
 #nav-services {
-  padding: 0px 0px 0px 20px;
+  margin: 0 auto;
 }
   #nav-links li {
     margin: 12px 12px; }
@@ -66,8 +66,10 @@ body {
     border-color: #38c5c5;
     color: #38c5c5; }
   #nav-services li {
-  font-size: 24px;
-  margin: 6px; }
+  font-size: 2em;
+  margin: 6px;
+  float: left;
+  }
 
   #nav-services a:hover {
     border-color: #38c5c5;
